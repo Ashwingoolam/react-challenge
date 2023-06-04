@@ -52,13 +52,13 @@ class Projects extends Component {
           </CardMenu>
         </Card>
       );
-    } else if (this.state.activeTab === 1) {
+    } else if (this.state.activeTab === 2) {
       return (
         <div>
           <h1>This is nodejs coming </h1>
         </div>
       );
-    } else if (this.state.activeTab === 2) {
+    } else if (this.state.activeTab === 1) {
       return (
         <div>
           <h1>This HTML CSS JAVASCRIPT</h1>
