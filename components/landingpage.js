@@ -8,7 +8,7 @@ class Landing extends Component {
         <Grid className="landing-grid">
           <Cell col={12}>
             <img
-              src="https://avatars1.githubusercontent.com/u/42638797?s=460&u=0690dec92c80e9ab0f3b09322272e1cc4cb3ba3f&v=4"
+              src="https://wallpapertag.com/wallpaper/full/7/2/b/710425-cool-naruto-wallpapers-hd-2560x1600-for-ipad-pro.jpg"
               alt="avatarimage"
               className="avatar-img"
             />

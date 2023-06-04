@@ -43,7 +43,7 @@ class Projects extends Component {
             <a href="https://github.com/Ashwingoolam">
               <Button colored>Github</Button>
             </a>
-            <a href="">
+            <a href="https://github.com/Ashwingoolam/final-mlab-challenge">
               <Button colored>Live Demo</Button>
             </a>
           </CardActions>
